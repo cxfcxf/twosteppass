@@ -26,5 +26,5 @@ and in crontab you can do something like
 
 change the line in twosteppass.c to point to the random number page you have
 
-### this is good with people have lagcy system, dont want to change any stuff and redo user account
+### this is good with people have legacy system, dont want to change any stuff and redo user account
 ### otherwise just use duo or google two step auth.
